@@ -1,1 +1,5 @@
 I am doing the carpentary workshop.
+
+Mars is a great planet
+
+Earth is good.
